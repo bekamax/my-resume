@@ -188,7 +188,7 @@
   }
   .header {
     margin: 0 auto;
-    width: 110vw;
+    width: 120vw;
     padding: 0;
   }
 }
@@ -206,6 +206,17 @@
   }
   .card {
     margin: auto;
+    width: 90%;
+  }
+}
+@media all and (max-width: 360px) {
+  .header {
+    margin: 0 auto;
+    width: 120vw;
+    padding: 0;
+  }
+
+  .contaner {
     width: 90%;
   }
 }
