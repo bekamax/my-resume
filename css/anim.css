@@ -1,0 +1,8 @@
+@keyframes img {
+  form {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
